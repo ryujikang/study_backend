@@ -4,5 +4,4 @@
 
 ---
 
-## [java-start 과정](study_backend/java-start)
-2025.05.29 ~ 2025.00.00
+## [java-start 과정](https://github.com/ryujikang/study_backend/tree/java-start?tab=readme-ov-file)
