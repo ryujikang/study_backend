@@ -79,28 +79,72 @@
   - 예제: [OperationEx3.java](src/operator/ex/OperationEx3.java)
 - [x] 25.정리
 
+<br><br>
+
+> 2025.06.04
 ## Section 5. 조건문
-- [ ] 26.if문1 - if, else
-- [ ] 27.if문2 - else if
-- [ ] 28.if문3 - if문과 else if문
-- [ ] 29.switch문
-- [ ] 30.삼항 연산자
-- [ ] 31.문제와 풀이1
-- [ ] 32.문제와 풀이2
-- [ ] 33.정리
+- [x] 26.if문1 - if, else
+  - 예제: [If1.java](src/cond/If1.java)
+  - 예제: [If2.java](src/cond/If2.java)
+- [x] 27.if문2 - else if
+  - 예제: [If3.java](src/cond/If3.java)
+  - 예제: [If4.java](src/cond/If4.java)
+- [x] 28.if문3 - if문과 else if문
+  - 예제: [If5.java](src/cond/If5.java)
+  - 예제: [If6.java](src/cond/If6.java)
+- [x] 29.switch문
+  - 예제: [Switch1.java](src/cond/Switch1.java)
+  - 예제: [Switch2.java](src/cond/Switch2.java)
+  - 예제: [Switch3.java](src/cond/Switch3.java)
+  - 예제: [Switch4.java](src/cond/Switch4.java)
+- [x] 30.삼항 연산자
+  - 예제: [CondOp1.java](src/cond/CondOp1.java)
+  - 예제: [CondOp2.java](src/cond/CondOp2.java)
+- [x] 31.문제와 풀이1
+  - 예제: [ScoreEx.java](src/cond/ex/ScoreEx.java)
+  - 예제: [DistanceEx.java](src/cond/ex/DistanceEx.java)
+  - 예제: [ExchangeRateEx.java](src/cond/ex/ExchangeRateEx.java)
+- [x] 32.문제와 풀이2
+  - 예제: [MovieRateEx.java](src/cond/ex/MovieRateEx.java)
+  - 예제: [GradeSwitchEx.java](src/cond/ex/GradeSwitchEx.java)
+  - 예제: [CondOpEx.java](src/cond/ex/CondOpEx.java)
+  - 예제: [EvenOddEx.java](src/cond/ex/EvenOddEx.java)
+- [x] 33.정리
 
 ## Section 6. 반복문
-- [ ] 34.반복문 시작
-- [ ] 35.while문1
-- [ ] 36.while문2
-- [ ] 37.do-while문
-- [ ] 38.break, continue
-- [ ] 39.for문1
-- [ ] 40.for문2
-- [ ] 41.중첩 반복문
-- [ ] 42.문제와 풀이1
-- [ ] 43.문제와 풀이2
-- [ ] 44.정리
+- [x] 34.반복문 시작
+  - 예제: [While1_1.java](src/loop/While1_1.java)
+- [x] 35.while문1
+  - 예제: [While1_2.java](src/loop/While1_2.java)
+- [x] 36.while문2
+  - 예제: [While2_1.java](src/loop/While2_1.java)
+  - 예제: [While2_2.java](src/loop/While2_2.java)
+  - 예제: [While2_3.java](src/loop/While2_3.java)
+- [x] 37.do-while문
+  - 예제: [DoWhile1.java](src/loop/DoWhile1.java)
+  - 예제: [DoWhile2.java](src/loop/DoWhile2.java)
+- [x] 38.break, continue
+  - 예제: [Break1.java](src/loop/Break1.java)
+  - 예제: [Continue1.java](src/loop/Continue1.java)
+- [x] 39.for문1
+  - 예제: [For1.java](src/loop/For1.java)
+  - 예제: [For2.java](src/loop/For2.java)
+- [x] 40.for문2
+  - 예제: [Break2.java](src/loop/Break2.java)
+  - 예제: [Break3.java](src/loop/Break3.java)
+- [x] 41.중첩 반복문
+  - 예제: [Nested1.java](src/loop/Nested1.java)
+- [x] 42.문제와 풀이1
+  - 예제: [WhileEx1.java](src/loop/ex/WhileEx1.java)
+  - 예제: [ForEx1.java](src/loop/ex/ForEx1.java)
+  - 예제: [WhileEx2.java](src/loop/ex/WhileEx2.java)
+  - 예제: [ForEx2.java](src/loop/ex/ForEx2.java)
+  - 예제: [WhileEx3.java](src/loop/ex/WhileEx3.java)
+  - 예제: [ForEx3.java](src/loop/ex/ForEx3.java)
+- [x] 43.문제와 풀이2
+  - 예제: [NestedEx1.java](src/loop/ex/NestedEx1.java)
+  - 예제: [NestedEx2.java](src/loop/ex/NestedEx2.java)
+- [x] 44.정리
 
 ## Section 7. 스코프, 형변환
 - [ ] 45.스코프1 - 지역 변수와 스코프
