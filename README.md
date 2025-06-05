@@ -146,13 +146,24 @@
   - 예제: [NestedEx2.java](src/loop/ex/NestedEx2.java)
 - [x] 44.정리
 
+<br><br>
+
+> 2025.06.05
 ## Section 7. 스코프, 형변환
-- [ ] 45.스코프1 - 지역 변수와 스코프
-- [ ] 46.스코프2 - 스코프 존재 이유
-- [ ] 47.형변환1 - 자동 형변환
-- [ ] 48.형변환2 - 명시적 형변환
-- [ ] 49.계산과 형변환
-- [ ] 50.정리
+- [x] 45.스코프1 - 지역 변수와 스코프
+    - 예제: [Scope1.java](src/scope/Scope1.java)
+    - 예제: [Scope2.java](src/scope/Scope2.java)
+- [x] 46.스코프2 - 스코프 존재 이유
+    - 예제: [Scope3_1.java](src/scope/Scope3_1.java)
+    - 예제: [Scope3_2.java](src/scope/Scope3_2.java)
+- [x] 47.형변환1 - 자동 형변환
+  - 예제: [Casting1.java](src/casting/Casting1.java)
+- [x] 48.형변환2 - 명시적 형변환
+  - 예제: [Casting2.java](src/casting/Casting2.java)
+  - 예제: [Casting3.java](src/casting/Casting3.java)
+- [x] 49.계산과 형변환
+  - 예제: [Casting4.java](src/casting/Casting4.java)
+- [x] 50.정리
 
 ## Section 8. 훈련
 - [ ] 51.Scanner 학습
