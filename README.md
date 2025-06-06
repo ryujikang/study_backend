@@ -165,15 +165,34 @@
   - 예제: [Casting4.java](src/casting/Casting4.java)
 - [x] 50.정리
 
+<br><br>
+
+> 2025.06.06
 ## Section 8. 훈련
-- [ ] 51.Scanner 학습
-- [ ] 52.Scanner - 기본 예제
-- [ ] 53.Scanner - 반복 예제
-- [ ] 54.문제와 풀이1
-- [ ] 55.문제와 풀이2
-- [ ] 56.문제와 풀이3
-- [ ] 57.문제와 풀이4
-- [ ] 58.정리
+- [x] 51.Scanner 학습
+  - 예제: [Scanner1.java](src/scanner/Scanner1.java)
+- [x] 52.Scanner - 기본 예제
+  - 예제: [Scanner2.java](src/scanner/Scanner2.java)
+  - 예제: [Scanner3.java](src/scanner/Scanner3.java)
+- [x] 53.Scanner - 반복 예제
+  - 예제: [ScannerWhile1.java](src/scanner/ScannerWhile1.java)
+  - 예제: [ScannerWhile2.java](src/scanner/ScannerWhile2.java)
+  - 예제: [ScannerWhile3.java](src/scanner/ScannerWhile3.java)
+- [x] 54.문제와 풀이1
+  - 예제: [ScannerEx1.java](src/scanner/ex/ScannerEx1.java)
+  - 예제: [ScannerEx2.java](src/scanner/ex/ScannerEx2.java)
+  - 예제: [ScannerEx3.java](src/scanner/ex/ScannerEx3.java)
+  - 예제: [ScannerEx4.java](src/scanner/ex/ScannerEx4.java)
+- [x] 55.문제와 풀이2
+  - 예제: [ChangeVarEx.java](src/scanner/ex/ChangeVarEx.java)
+  - 예제: [ScannerEx5.java](src/scanner/ex/ScannerEx5.java)
+- [x] 56.문제와 풀이3
+  - 예제: [ScannerWhileEx1.java](src/scanner/ex/ScannerWhileEx1.java)
+  - 예제: [ScannerWhileEx2.java](src/scanner/ex/ScannerWhileEx2.java)
+  - 예제: [ScannerWhileEx3.java](src/scanner/ex/ScannerWhileEx3.java)
+- [x] 57.문제와 풀이4
+  - 예제: [ScannerWhileEx4.java](src/scanner/ex/ScannerWhileEx4.java)
+- [x] 58.정리
 
 ## Section 9. 배열
 - [ ] 59.배열 시작
