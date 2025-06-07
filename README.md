@@ -194,19 +194,42 @@
   - 예제: [ScannerWhileEx4.java](src/scanner/ex/ScannerWhileEx4.java)
 - [x] 58.정리
 
+<br><br>
+
+> 2025.06.07
 ## Section 9. 배열
-- [ ] 59.배열 시작
-- [ ] 60.배열의 선언과 생성
-- [ ] 61.배열 사용
-- [ ] 62.배열 리펙토링
-- [ ] 63.2차원 배열 - 시작
-- [ ] 64.2차원 배열 - 리팩토링1
-- [ ] 65.2차원 배열 - 리팩토링2
-- [ ] 66.향상된 for문
-- [ ] 67.문제와 풀이1
-- [ ] 68.문제와 풀이2
-- [ ] 69.문제와 풀이3
-- [ ] 70.정리
+- [x] 59.배열 시작
+  - 예제: [Array1.java](src/array/Array1.java)
+- [x] 60.배열의 선언과 생성
+  - 예제: [Array1Ref1.java](src/array/Array1Ref1.java)
+- [x] 61.배열 사용
+- [x] 62.배열 리펙토링
+  - 예제: [Array1Ref2.java](src/array/Array1Ref2.java)
+  - 예제: [Array1Ref3.java](src/array/Array1Ref3.java)
+  - 예제: [Array1Ref4.java](src/array/Array1Ref4.java)
+- [x] 63.2차원 배열 - 시작
+  - 예제: [ArrayDi0.java](src/array/ArrayDi0.java)
+- [x] 64.2차원 배열 - 리팩토링1
+  - 예제: [ArrayDi1.java](src/array/ArrayDi1.java)
+  - 예제: [ArrayDi2.java](src/array/ArrayDi2.java)
+- [x] 65.2차원 배열 - 리팩토링2
+  - 예제: [ArrayDi3.java](src/array/ArrayDi3.java)
+  - 예제: [ArrayDi4.java](src/array/ArrayDi4.java)
+- [x] 66.향상된 for문
+  - 예제: [EnhancedFor1.java](src/array/EnhancedFor1.java)
+- [x] 67.문제와 풀이1
+  - 예제: [ArrayEx1.java](src/array/ex/ArrayEx1.java)
+  - 예제: [ArrayEx2.java](src/array/ex/ArrayEx2.java)
+  - 예제: [ArrayEx3.java](src/array/ex/ArrayEx3.java)
+  - 예제: [ArrayEx4.java](src/array/ex/ArrayEx4.java)
+  - 예제: [ArrayEx5.java](src/array/ex/ArrayEx5.java)
+- [x] 68.문제와 풀이2
+  - 예제: [ArrayEx6.java](src/array/ex/ArrayEx6.java)
+  - 예제: [ArrayEx7.java](src/array/ex/ArrayEx7.java)
+  - 예제: [ArrayEx8.java](src/array/ex/ArrayEx8.java)
+- [x] 69.문제와 풀이3
+  - 예제: [ProductAdminEX.java](src/array/ex/ProductAdminEX.java)
+- [x] 70.정리
 
 
 ## Section 10. 메서드
