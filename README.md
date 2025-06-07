@@ -4,15 +4,16 @@
 
 ---
 
-<br><br>
+<details>
+<summary>자바 스타트</summary>
 
 > 2025.05.29
-## Section 1. 강의 소개와 자료
+## Section 0. 강의 소개와 자료
 - [x] 1.강의 소개
 - [x] 2.수업 자료
 - [x] 3.강의 소스 코드
 
-## Section 2. Hello World
+## Section 1. Hello World
 - [x] 4.개발 환경 설정
 - [x] 5.다운로드 소스 코드 실행 방법
   - 예제: [Main.java](src/Main.java) 
@@ -33,7 +34,7 @@
 <br><br>
 
 > 2025.06.03
-## Section 3. 변수
+## Section 2. 변수
 - [x] 9.변수 시작
   - 예제: [Var1.java](src/variable/Var1.java)
   - 예제: [Var2.java](src/variable/Var2.java)
@@ -54,7 +55,7 @@
   - 예제: [VarEx3.java](src/variable/ex/VarEx3.java)
 - [x] 16.정리
 
-## Section 4. 연산자
+## Section 3. 연산자
 - [x] 17.산술 연산자
   - 예제: [Operator1.java](src/operator/Operator1.java)
 - [x] 18.문자열 더하기
@@ -82,7 +83,7 @@
 <br><br>
 
 > 2025.06.04
-## Section 5. 조건문
+## Section 4. 조건문
 - [x] 26.if문1 - if, else
   - 예제: [If1.java](src/cond/If1.java)
   - 예제: [If2.java](src/cond/If2.java)
@@ -111,7 +112,7 @@
   - 예제: [EvenOddEx.java](src/cond/ex/EvenOddEx.java)
 - [x] 33.정리
 
-## Section 6. 반복문
+## Section 5. 반복문
 - [x] 34.반복문 시작
   - 예제: [While1_1.java](src/loop/While1_1.java)
 - [x] 35.while문1
@@ -149,7 +150,7 @@
 <br><br>
 
 > 2025.06.05
-## Section 7. 스코프, 형변환
+## Section 6. 스코프, 형변환
 - [x] 45.스코프1 - 지역 변수와 스코프
     - 예제: [Scope1.java](src/scope/Scope1.java)
     - 예제: [Scope2.java](src/scope/Scope2.java)
@@ -168,7 +169,7 @@
 <br><br>
 
 > 2025.06.06
-## Section 8. 훈련
+## Section 7. 훈련
 - [x] 51.Scanner 학습
   - 예제: [Scanner1.java](src/scanner/Scanner1.java)
 - [x] 52.Scanner - 기본 예제
@@ -197,7 +198,7 @@
 <br><br>
 
 > 2025.06.07
-## Section 9. 배열
+## Section 8. 배열
 - [x] 59.배열 시작
   - 예제: [Array1.java](src/array/Array1.java)
 - [x] 60.배열의 선언과 생성
@@ -231,19 +232,43 @@
   - 예제: [ProductAdminEX.java](src/array/ex/ProductAdminEX.java)
 - [x] 70.정리
 
+<br><br>
 
-## Section 10. 메서드
-- [ ] 71.메서드 시작
-- [ ] 72.메서드 사용
-- [ ] 73.메서드 정의
-- [ ] 74.반환 타입
-- [ ] 75.메서드 호출과 값 전달1
-- [ ] 76.메서드 호출과 값 전달2
-- [ ] 77.메서드와 형변환
-- [ ] 78.메서드 오버로딩
-- [ ] 79.문제와 풀이1
-- [ ] 80.문제와 풀이2
-- [ ] 81.정리
+> 2025.06.08
+## Section 9. 메서드
+- [x] 71.메서드 시작
+  - 예제: [Method1.java](src/method/Method1.java)
+- [x] 72.메서드 사용
+  - 예제: [Method1Ref.java](src/method/Method1Ref.java)
+- [x] 73.메서드 정의
+  - 예제: [Method2.java](src/method/Method2.java)
+- [x] 74.반환 타입
+  - 예제: [MethodReturn1.java](src/method/MethodReturn1.java)
+  - 예제: [MethodReturn2.java](src/method/MethodReturn2.java)
+- [x] 75.메서드 호출과 값 전달1
+  - 예제: [MethodValue0.java](src/method/MethodValue0.java)
+  - 예제: [MethodValue1.java](src/method/MethodValue1.java)
+- [x] 76.메서드 호출과 값 전달2
+  - 예제: [MethodValue2.java](src/method/MethodValue2.java)
+  - 예제: [MethodValue3.java](src/method/MethodValue3.java)
+- [x] 77.메서드와 형변환
+  - 예제: [MethodCasting1.java](src/method/MethodCasting1.java)
+  - 예제: [MethodCasting2.java](src/method/MethodCasting2.java)
+- [x] 78.메서드 오버로딩
+  - 예제: [Overloading1.java](src/overloading/Overloading1.java)
+  - 예제: [Overloading2.java](src/overloading/Overloading2.java)
+  - 예제: [Overloading3.java](src/overloading/Overloading3.java)
+- [x] 79.문제와 풀이1
+  - 예제: [MethodEx1Ref.java](src/method/ex/MethodEx1Ref.java)
+  - 예제: [MethodEx2Ref.java](src/method/ex/MethodEx2Ref.java)
+  - 예제: [MethodEx3Ref.java](src/method/ex/MethodEx3Ref.java)
+- [x] 80.문제와 풀이2
+  - 예제: [MethodEx4.java](src/method/ex/MethodEx4.java)
+- [x] 81.정리
 
-## Section 11. 다음으로
-- [ ] 82.다음으로[ ]
+<br><br>
+
+## Section 10. 다음으로
+- [x] 82.다음으로
+
+</details>
