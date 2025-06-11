@@ -384,13 +384,26 @@
 
 <br><br>
 
-> 
+> 2025.06.11
 ## Section 6. 패키지
-- [ ] 36.패키지 - 시작
-- [ ] 37.패키지 - import
-- [ ] 38.패키지 규칙
-- [ ] 39.패키지 활용
-- [ ] 40.정리
+- [x] 36.패키지 - 시작
+- [x] 37.패키지 - import
+  - 예제: [Data.java](java_basic/pack/Data.java)
+  - 예제: [User.java](java_basic/pack/a/User.java)
+  - 예제: [PackageMain1.java](java_basic/pack/PackageMain1.java)
+  - 예제: [PackageMain2.java](java_basic/pack/PackageMain2.java)
+  - 예제: [User.java](java_basic/pack/b/User.java)
+  - 예제: [PackageMain3.java](java_basic/pack/PackageMain3.java)
+- [x] 38.패키지 규칙
+- [x] 39.패키지 활용
+  - 예제: [User.java](java_basic/com/helloshop/user/User.java)
+  - 예제: [UserService.java](java_basic/com/helloshop/user/UserService.java)
+  - 예제: [Product.java](java_basic/com/helloshop/product/Product.java)
+  - 예제: [ProductService.java](java_basic/com/helloshop/product/ProductService.java)
+  - 예제: [Order.java](java_basic/com/helloshop/order/Order.java)
+  - 예제: [OrderService.java](java_basic/com/helloshop/order/OrderService.java)
+  - 예제: [OrderHistory.java](java_basic/com/helloshop/order/OrderHistory.java)
+- [x] 40.정리
 
 ## Section 7. 접근 제어자
 - [ ] 41.접근 제어자 이해1
