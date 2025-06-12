@@ -405,15 +405,32 @@
   - 예제: [OrderHistory.java](java_basic/com/helloshop/order/OrderHistory.java)
 - [x] 40.정리
 
+<br><br>
+
+> 2025.06.12
 ## Section 7. 접근 제어자
-- [ ] 41.접근 제어자 이해1
-- [ ] 42.접근 제어자 이해2
-- [ ] 43.접근 제어자 종류
-- [ ] 44.접근 제어자 사용 - 필드, 메서드
-- [ ] 45.접근 제어자 사용 - 클래스 레벨
-- [ ] 46.캡슐화
-- [ ] 47.문제와 풀이
-- [ ] 48.정리
+- [x] 41.접근 제어자 이해1
+  - 예제: [Speaker.java](java_basic/access/Speaker.java)
+  - 예제: [SpeakerMain.java](java_basic/access/SpeakerMain.java)
+- [x] 42.접근 제어자 이해2
+- [x] 43.접근 제어자 종류
+- [x] 44.접근 제어자 사용 - 필드, 메서드
+  - 예제: [AccessData.java](java_basic/access/a/AccessData.java)
+  - 예제: [AccessInnerMain.java](java_basic/access/a/AccessInnerMain.java)
+  - 예제: [AccessOuterMain.java](java_basic/access/b/AccessOuterMain.java)
+- [x] 45.접근 제어자 사용 - 클래스 레벨
+  - 예제: [PublicClass.java](java_basic/access/a/PublicClass.java)
+  - 예제: [PublicClassOuterMain.java](java_basic/access/b/PublicClassOuterMain.java)
+- [x] 46.캡슐화
+  - 예제: [BankAccount.java](java_basic/access/BankAccount.java)
+  - 예제: [BankAccountMain.java](java_basic/access/BankAccountMain.java)
+- [x] 47.문제와 풀이
+  - 예제: [CounterMain.java](java_basic/access/ex/CounterMain.java)
+  - 예제: [MaxCounter.java](java_basic/access/ex/MaxCounter.java)
+  - 예제: [ShoppingCartMain.java](java_basic/access/ex/ShoppingCartMain.java)
+  - 예제: [Item.java](java_basic/access/ex/Item.java)
+  - 예제: [ShoppingCart.java](java_basic/access/ex/ShoppingCart.java)
+- [x] 48.정리
 
 ## Section 8. 자바 메모리 구조와 static
 - [ ] 49.자바 메모리 구조
