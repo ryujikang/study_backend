@@ -432,22 +432,53 @@
   - 예제: [ShoppingCart.java](java_basic/access/ex/ShoppingCart.java)
 - [x] 48.정리
 
+<br><br>
+
+> 2025.06.13
 ## Section 8. 자바 메모리 구조와 static
-- [ ] 49.자바 메모리 구조
-- [ ] 50.스택과 큐 자료 구조
-- [ ] 51.스택 영역
-- [ ] 52.스택 영역과 힙 영역
-- [ ] 53.static 변수1
-- [ ] 54.static 변수2
-- [ ] 55.static 변수3
-- [ ] 56.static 메서드1
-- [ ] 57.static 메서드2
-- [ ] 58.static 메서드3
-- [ ] 59.문제와 풀이
-- [ ] 60.정리
+- [x] 49.자바 메모리 구조
+- [x] 50.스택과 큐 자료 구조
+- [x] 51.스택 영역
+  - 예제: [JavaMemoryMain1.java](java_basic/memory/JavaMemoryMain1.java)
+- [x] 52.스택 영역과 힙 영역
+  - 예제: [Data.java](java_basic/memory/Data.java)
+  - 예제: [JavaMemoryMain2.java](java_basic/memory/JavaMemoryMain2.java)
+- [x] 53.static 변수1
+  - 예제: [Data1.java](java_basic/static1/Data1.java)
+  - 예제: [DataCountMain1.java](java_basic/static1/DataCountMain1.java)
+  - 예제: [Counter.java](java_basic/static1/Counter.java)
+  - 예제: [Data2.java](java_basic/static1/Data2.java)
+  - 예제: [DataCountMain2.java](java_basic/static1/DataCountMain2.java)
+- [x] 54.static 변수2
+  - 예제: [Data3.java](java_basic/static1/Data3.java)
+  - 예제: [DataCountMain3.java](java_basic/static1/DataCountMain3.java)
+- [x] 55.static 변수3
+  - 예제: [Data3.java](java_basic/static1/Data3.java)
+  - 예제: [DataCountMain3.java](java_basic/static1/DataCountMain3.java)
+- [x] 56.static 메서드1
+  - 예제: [DecoUtil1.java](java_basic/static2/DecoUtil1.java)
+  - 예제: [DecoMain1.java](java_basic/static2/DecoMain1.java)
+  - 예제: [DecoUtil2.java](java_basic/static2/DecoUtil2.java)
+  - 예제: [DecoMain2.java](java_basic/static2/DecoMain2.java)
+- [x] 57.static 메서드2
+  - 예제: [DecoData.java](java_basic/static2/DecoData.java)
+  - 예제: [DecoDataMain.java](java_basic/static2/DecoDataMain.java)
+- [x] 58.static 메서드3
+  - 예제: [DecoData.java](java_basic/static2/DecoData.java)
+  - 예제: [DecoDataMain.java](java_basic/static2/DecoDataMain.java)
+- [x] 59.문제와 풀이
+  - 예제: [CarMain.java](java_basic/static2/ex/CarMain.java)
+  - 예제: [Car.java](java_basic/static2/ex/Car.java)
+  - 예제: [MathArrayUtilsMain.java](java_basic/static2/ex/MathArrayUtilsMain.java)
+  - 예제: [MathArrayUtils.java](java_basic/static2/ex/MathArrayUtils.java)
+- [x] 60.정리
 
 ## Section 9. final
-- [ ] 61.final 변수와 상수1
+- [x] 61.final 변수와 상수1
+  - 예제: [FinalLocalMain.java](java_basic/final1/FinalLocalMain.java)
+  - 예제: [ConstructInit.java](java_basic/final1/ConstructInit.java)
+  - 예제: [FieldInit.java](java_basic/final1/FieldInit.java)
+  - 예제: [FinalFieldMain.java](java_basic/final1/FinalFieldMain.java)
 - [ ] 62.final 변수와 상수2
 - [ ] 63.final 변수와 참조
 - [ ] 64.정리
