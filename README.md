@@ -479,10 +479,20 @@
   - 예제: [ConstructInit.java](java_basic/final1/ConstructInit.java)
   - 예제: [FieldInit.java](java_basic/final1/FieldInit.java)
   - 예제: [FinalFieldMain.java](java_basic/final1/FinalFieldMain.java)
-- [ ] 62.final 변수와 상수2
-- [ ] 63.final 변수와 참조
-- [ ] 64.정리
+- [x] 62.final 변수와 상수2
+  - 예제: [Constant.java](java_basic/final1/Constant.java)
+  - 예제: [ConstantMain1.java](java_basic/final1/ConstantMain1.java)
+  - 예제: [ConstantMain2.java](java_basic/final1/ConstantMain2.java)
+- [x] 63.final 변수와 참조
+  - 예제: [Data.java](java_basic/final1/Data.java)
+  - 예제: [FinalRefMain.java](java_basic/final1/FinalRefMain.java)
+- [x] 64.정리
+  - 예제: [Member.java](java_basic/final1/ex/Member.java)
+  - 예제: [MemberMain.java](java_basic/final1/ex/MemberMain.java)
 
+<br><br>
+
+> 2025.06.
 ## Section 10. 상속
 - [ ] 65.상속 - 시작
 - [ ] 66.상속 관계
