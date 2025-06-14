@@ -492,18 +492,49 @@
 
 <br><br>
 
-> 2025.06.
+> 2025.06.14
 ## Section 10. 상속
-- [ ] 65.상속 - 시작
-- [ ] 66.상속 관계
-- [ ] 67.상속과 메모리 구조
-- [ ] 68.상속과 기능 추가
-- [ ] 69.상속과 메서드 오버라이딩
-- [ ] 70.상속과 접근 제어
-- [ ] 71.super - 부모 참조
-- [ ] 72.super - 생성자
-- [ ] 73.문제와 풀이
-- [ ] 74.정리
+- [x] 65.상속 - 시작
+  - 예제: [ElectricCar.java](java_basic/extends1/ex1/ElectricCar.java)
+  - 예제: [GasCar.java](java_basic/extends1/ex1/GasCar.java)
+  - 예제: [CarMain.java](java_basic/extends1/ex1/CarMain.java)
+- [x] 66.상속 관계
+  - 예제: [Car.java](java_basic/extends1/ex2/Car.java)
+  - 예제: [ElectricCar.java](java_basic/extends1/ex2/ElectricCar.java)
+  - 예제: [GasCar.java](java_basic/extends1/ex2/GasCar.java)
+  - 예제: [CarMain.java](java_basic/extends1/ex2/CarMain.java)
+- [x] 67.상속과 메모리 구조
+- [x] 68.상속과 기능 추가
+  - 예제: [Car.java](java_basic/extends1/ex3/Car.java)
+  - 예제: [ElectricCar.java](java_basic/extends1/ex3/ElectricCar.java)
+  - 예제: [GasCar.java](java_basic/extends1/ex3/GasCar.java)
+  - 예제: [HydrogenCar.java](java_basic/extends1/ex3/HydrogenCar.java)
+  - 예제: [CarMain.java](java_basic/extends1/ex3/CarMain.java)
+- [x] 69.상속과 메서드 오버라이딩
+  - 예제: [Car.java](java_basic/extends1/overriding/Car.java)
+  - 예제: [GasCar.java](java_basic/extends1/overriding/GasCar.java)
+  - 예제: [ElectricCar.java](java_basic/extends1/overriding/ElectricCar.java)
+  - 예제: [CarMain.java](java_basic/extends1/overriding/CarMain.java)
+- [x] 70.상속과 접근 제어
+  - 예제: [Parent.java](java_basic/extends1/access/parent/Parent.java)
+  - 예제: [Child.java](java_basic/extends1/access/child/Child.java)
+  - 예제: [ExtendsAccessMain.java](java_basic/extends1/access/ExtendsAccessMain.java)
+- [x] 71.super - 부모 참조
+  - 예제: [Parent.java](java_basic/extends1/super1/Parent.java)
+  - 예제: [Child.java](java_basic/extends1/super1/Child.java)
+  - 예제: [Super1Main.java](java_basic/extends1/super1/Super1Main.java)
+- [x] 72.super - 생성자
+  - 예제: [ClassA.java](java_basic/extends1/super2/ClassA.java)
+  - 예제: [ClassB.java](java_basic/extends1/super2/ClassB.java)
+  - 예제: [ClassC.java](java_basic/extends1/super2/ClassC.java)
+  - 예제: [Super2Main.java](java_basic/extends1/super2/Super2Main.java)
+- [x] 73.문제와 풀이
+  - 예제: [ShopMain.java](java_basic/extends1/ex/ShopMain.java)
+  - 예제: [Item.java](java_basic/extends1/ex/Item.java)
+  - 예제: [Book.java](java_basic/extends1/ex/Book.java)
+  - 예제: [Album.java](java_basic/extends1/ex/Album.java)
+  - 예제: [Movie.java](java_basic/extends1/ex/Movie.java)
+- [x] 74.정리
 
 ## Section 11. 다형성1
 - [ ] 75.다형성 시작
