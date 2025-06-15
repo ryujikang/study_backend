@@ -536,14 +536,29 @@
   - 예제: [Movie.java](java_basic/extends1/ex/Movie.java)
 - [x] 74.정리
 
+<br><br>
+
+> 2025.06.15
 ## Section 11. 다형성1
-- [ ] 75.다형성 시작
-- [ ] 76.다형성과 캐스팅
-- [ ] 77.캐스팅의 종류
-- [ ] 78.다운캐스팅과 주의점
-- [ ] 79.instanceof
-- [ ] 80.다형성과 메서드 오버라이딩
-- [ ] 81.정리
+- [x] 75.다형성 시작
+  - 예제: [Parent.java](java_basic/poly/basic/Parent.java)
+  - 예제: [Child.java](java_basic/poly/basic/Child.java)
+  - 예제: [PolyMain.java](java_basic/poly/basic/PolyMain.java)
+- [x] 76.다형성과 캐스팅
+  - 예제: [CastingMain1.java](java_basic/poly/basic/CastingMain1.java)
+- [x] 77.캐스팅의 종류
+  - 예제: [CastingMain2.java](java_basic/poly/basic/CastingMain2.java)
+  - 예제: [CastingMain3.java](java_basic/poly/basic/CastingMain3.java)
+- [x] 78.다운캐스팅과 주의점
+  - 예제: [CastingMain4.java](java_basic/poly/basic/CastingMain4.java)
+- [x] 79.instanceof
+  - 예제: [CastingMain5.java](java_basic/poly/basic/CastingMain5.java)
+  - 예제: [CastingMain6.java](java_basic/poly/basic/CastingMain6.java)
+- [x] 80.다형성과 메서드 오버라이딩
+  - 예제: [Parent.java](java_basic/poly/overriding/Parent.java)
+  - 예제: [Child.java](java_basic/poly/overriding/Child.java)
+  - 예제: [OverridingMain.java](java_basic/poly/overriding/OverridingMain.java)
+- [x] 81.정리
 
 ## Section 12. 다형성2
 - [ ] 82.다형성 활용1
