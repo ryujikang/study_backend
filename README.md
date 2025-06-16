@@ -560,16 +560,56 @@
   - 예제: [OverridingMain.java](java_basic/poly/overriding/OverridingMain.java)
 - [x] 81.정리
 
+<br><br>
+
+> 2025.06.16
 ## Section 12. 다형성2
-- [ ] 82.다형성 활용1
-- [ ] 83.다형성 활용2
-- [ ] 84.다형성 활용3
-- [ ] 85.추상 클래스1
-- [ ] 86.추상 클래스2
-- [ ] 87.인터페이스
-- [ ] 88.인터페이스 - 다중 구현
-- [ ] 89.클래스와 인터페이스 활용
-- [ ] 90.정리
+- [x] 82.다형성 활용1
+  - 예제: [Dog.java](java_basic/poly/ex1/Dog.java)
+  - 예제: [Cat.java](java_basic/poly/ex1/Cat.java)
+  - 예제: [Cow.java](java_basic/poly/ex1/Cow.java)
+  - 예제: [AnimalSoundMain.java](java_basic/poly/ex1/AnimalSoundMain.java)
+- [x] 83.다형성 활용2
+- [x] 82.다형성 활용1
+  - 예제: [Animal.java](java_basic/poly/ex2/Animal.java)
+  - 예제: [Dog.java](java_basic/poly/ex2/Dog.java)
+  - 예제: [Cat.java](java_basic/poly/ex2/Cat.java)
+  - 예제: [Cow.java](java_basic/poly/ex2/Cow.java)
+  - 예제: [AnimalPolyMain1.java](java_basic/poly/ex2/AnimalPolyMain1.java)
+- [x] 84.다형성 활용3
+  - 예제: [AnimalPolyMain2.java](java_basic/poly/ex2/AnimalPolyMain2.java)
+  - 예제: [AnimalPolyMain3.java](java_basic/poly/ex2/AnimalPolyMain3.java)
+- [x] 85.추상 클래스1
+  - 예제: [AbstractAnimal.java](java_basic/poly/ex3/AbstractAnimal.java)
+  - 예제: [Dog.java](java_basic/poly/ex3/Dog.java)
+  - 예제: [Cat.java](java_basic/poly/ex3/Cat.java)
+  - 예제: [Cow.java](java_basic/poly/ex3/Cow.java)
+  - 예제: [AbstractMain.java](java_basic/poly/ex3/AbstractMain.java)
+- [x] 86.추상 클래스2
+  - 예제: [AbstractAnimal.java](java_basic/poly/ex4/AbstractAnimal.java)
+  - 예제: [Dog.java](java_basic/poly/ex4/Dog.java)
+  - 예제: [Cat.java](java_basic/poly/ex4/Cat.java)
+  - 예제: [Cow.java](java_basic/poly/ex4/Cow.java)
+  - 예제: [AbstractMain.java](java_basic/poly/ex4/AbstractMain.java)
+- [x] 87.인터페이스
+  - 예제: [InterfaceAnimal.java](java_basic/poly/ex5/InterfaceAnimal.java)
+  - 예제: [Dog.java](java_basic/poly/ex5/Dog.java)
+  - 예제: [Cat.java](java_basic/poly/ex5/Cat.java)
+  - 예제: [Cow.java](java_basic/poly/ex5/Cow.java)
+  - 예제: [InterfaceMain.java](java_basic/poly/ex5/InterfaceMain.java)
+- [x] 88.인터페이스 - 다중 구현
+  - 예제: [InterfaceA.java](java_basic/poly/diamond/InterfaceA.java)
+  - 예제: [InterfaceB.java](java_basic/poly/diamond/InterfaceB.java)
+  - 예제: [Child.java](java_basic/poly/diamond/Child.java)
+  - 예제: [DiamondMain.java](java_basic/poly/diamond/DiamondMain.java)
+- [x] 89.클래스와 인터페이스 활용
+  - 예제: [AbstractAnimal.java](java_basic/poly/ex6/AbstractAnimal.java)
+  - 예제: [Fly.java](java_basic/poly/ex6/Fly.java)
+  - 예제: [Dog.java](java_basic/poly/ex6/Dog.java)
+  - 예제: [Bird.java](java_basic/poly/ex6/Bird.java)
+  - 예제: [Chicken.java](java_basic/poly/ex6/Chicken.java)
+  - 예제: [SoundFlyMain.java](java_basic/poly/ex6/SoundFlyMain.java)
+- [x] 90.정리
 
 ## Section 13. 다형성과 설계
 - [ ] 91.좋은 객체 지향 프로그래밍이란?
