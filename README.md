@@ -611,16 +611,41 @@
   - 예제: [SoundFlyMain.java](java_basic/poly/ex6/SoundFlyMain.java)
 - [x] 90.정리
 
+<br><br>
+
+> 2025.06.17
 ## Section 13. 다형성과 설계
-- [ ] 91.좋은 객체 지향 프로그래밍이란?
-- [ ] 92.다형성 - 역할과 구현 예제1
-- [ ] 93.다형성 - 역할과 구현 예제2
-- [ ] 94.다형성 - 역할과 구현 예제3
-- [ ] 95.OCP(Open-Closed Principle) 원칙
-- [ ] 96.문제와 풀이
-- [ ] 97.정리
+- [x] 91.좋은 객체 지향 프로그래밍이란?
+- [x] 92.다형성 - 역할과 구현 예제1
+  - 예제: [K3Car.java](java_basic/poly/car0/K3Car.java)
+  - 예제: [Driver.java](java_basic/poly/car0/Driver.java)
+  - 예제: [CarMain0.java](java_basic/poly/car0/CarMain0.java)
+- [x] 93.다형성 - 역할과 구현 예제2
+  - 예제: [Model3Car.java](java_basic/poly/car0/Model3Car.java)
+  - 예제: [Driver.java](java_basic/poly/car0/Driver.java)
+  - 예제: [CarMain0.java](java_basic/poly/car0/CarMain0.java)
+- [x] 94.다형성 - 역할과 구현 예제3
+  - 예제: [K3Car.java](java_basic/poly/car1/K3Car.java)
+  - 예제: [Model3Car.java](java_basic/poly/car1/Model3Car.java)
+  - 예제: [Driver.java](java_basic/poly/car1/Driver.java)
+  - 예제: [CarMain1.java](java_basic/poly/car1/CarMain1.java)
+- [x] 95.OCP(Open-Closed Principle) 원칙
+- [x] 96.문제와 풀이
+  - 예제: [SendMain.java](java_basic/poly/ex/sender/SendMain.java)
+  - 예제: [Sender.java](java_basic/poly/ex/sender/Sender.java)
+  - 예제: [EmailSender.java](java_basic/poly/ex/sender/EmailSender.java)
+  - 예제: [SmsSender.java](java_basic/poly/ex/sender/SmsSender.java)
+  - 예제: [FaceBookSender.java](java_basic/poly/ex/sender/FaceBookSender.java)
+  - 예제: [KakaoPay.java](java_basic/poly/ex/pay0/KakaoPay.java)
+  - 예제: [NaverPay.java](java_basic/poly/ex/pay0/NaverPay.java)
+  - 예제: [PayService.java](java_basic/poly/ex/pay0/PayService.java)
+  - 예제: [PayMain0.java](java_basic/poly/ex/pay0/PayMain0.java)
+  - 예제: [DefaultPay.java](java_basic/poly/ex/pay0/DefaultPay.java)
+  - 예제: [PayStore.java](java_basic/poly/ex/pay0/PayStore.java)
+  - 예제: [PayMain2.java](java_basic/poly/ex/pay0/PayMain2.java)
+- [x] 97.정리
 
 ## Section 14. 다음으로
-- [ ] 98.다음으로
+- [x] 98.다음으로
 
 </details>
