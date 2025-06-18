@@ -658,6 +658,36 @@
 [> Baekjoon Online Judge 사이트 <](https://www.acmicpc.net/)  
 [> 하루코딩 유튜브 <](https://www.youtube.com/@codingtest)
 
+> 핵심문제 25개 (⭐=핵심 / 🔥=빈출)   
+> 1일차 :
+> [**003⭐**](https://www.acmicpc.net/problem/11659)
+> [**008⭐**](https://www.acmicpc.net/problem/1253)
+> [**010⭐**](https://www.acmicpc.net/problem/11003)
+> [**015⭐**](https://www.acmicpc.net/problem/2750)
+> [**023⭐**](https://www.acmicpc.net/problem/11724)
+> [**026🔥**](https://www.acmicpc.net/problem/1260)
+> [**029⭐**](https://www.acmicpc.net/problem/1920)
+> [**036⭐**](https://www.acmicpc.net/problem/1541)  
+> 2일차 :
+> [**037🔥**](https://www.acmicpc.net/problem/1929)
+> [**050🔥**](https://www.acmicpc.net/problem/1717)
+> [**054🔥**](https://www.acmicpc.net/problem/1516)
+> [**056🔥**](https://www.acmicpc.net/problem/1753)
+> [**058⭐**](https://www.acmicpc.net/problem/1854)
+> [**059⭐**](https://www.acmicpc.net/problem/11657)
+> [**061⭐**](https://www.acmicpc.net/problem/11404)
+> [**064🔥**](https://www.acmicpc.net/problem/1197)  
+> 3일차 :
+> [**071🔥**](https://www.acmicpc.net/problem/2042)
+> [**075🔥**](https://www.acmicpc.net/problem/11438)
+> [**081🔥**](https://www.acmicpc.net/problem/1722)
+> [**082⭐**](https://www.acmicpc.net/problem/1256)
+> [**086🔥**](https://www.acmicpc.net/problem/2193)
+> [**090⭐**](https://www.acmicpc.net/problem/9252)
+> [**094⭐**](https://www.acmicpc.net/problem/11049)
+> [**095⭐**](https://www.acmicpc.net/problem/2098)
+> [**096⭐**](https://www.acmicpc.net/problem/14003)  
+
 <blockquote>
 <details>
 <summary>준비하기</summary>
@@ -666,7 +696,8 @@
 
 > 2025.06.18
 ## 시간 복잡도 활용
-- [ ] 백준 - 수 정렬하기
+- [x] 000 [백준2750](https://www.acmicpc.net/problem/2750) - [수 정렬하기](java_algorithm/get_ready/time_complexity/Baekjoon2750.java)
+
 </blockquote>
 
 </details>
@@ -683,29 +714,30 @@
 <details>
 <summary>자료구조</summary>
 
+> 2025.06.18
 ## 배열과 리스트
-- [ ] 백준 - 숫자의 합 구하기
-- [ ] 백준 - 평균 구하기
+- [x] 001 [백준11720](https://www.acmicpc.net/problem/11720) - [숫자의 합 구하기](java_algorithm/basic/data_structure/array_list/Baekjoon11720.java)
+- [x] 002 [백준1546](https://www.acmicpc.net/problem/1546) - [평균 구하기](java_algorithm/basic/data_structure/array_list/Baekjoon1546.java)
 
 ## 구간 합
-- [ ] 백준 - 구간 합 구하기1 (핵심⭐)
-- [ ] 백준 - 구간 합 구하기2
-- [ ] 백준 - 나머지 합 구하기
-- [ ] 백준 - 연속된 자연수의 합 구하기
+- [x] 003 [백준11659](https://www.acmicpc.net/problem/11659) - [구간 합 구하기1 (핵심⭐)](java_algorithm/basic/data_structure/sum_of_sections/Baekjoon11659.java)
+- [x] 004 [백준11660](https://www.acmicpc.net/problem/11660) - [구간 합 구하기2](java_algorithm/basic/data_structure/sum_of_sections/Baekjoon11660.java)
+- [ ] 005 [백준10986](https://www.acmicpc.net/problem/10986) - 나머지 합 구하기
+- [ ] 006 [백준2018](https://www.acmicpc.net/problem/2018) - 연속된 자연수의 합 구하기
 
 ## 투 포인터
-- [ ] 백준 - 주몽의 명령
-- [ ] 백준 - '좋은 수' 구하기 (핵심⭐)
+- [ ] 007 [백준1940](https://www.acmicpc.net/problem/1940) - 주몽의 명령
+- [ ] 008 [백준1253](https://www.acmicpc.net/problem/1253) - '좋은 수' 구하기 (핵심⭐)
 
 ## 슬라이딩 윈도우
-- [ ] 백준 - DNA 비밀번호
-- [ ] 백준 - 최솟값 찾기1 (핵심⭐)
+- [ ] 009 [백준12891](https://www.acmicpc.net/problem/12891) - DNA 비밀번호
+- [ ] 010 [백준11003](https://www.acmicpc.net/problem/11003) - 최솟값 찾기1 (핵심⭐)
 
 ## 스택과 큐
-- [ ] 백준 - 스택으로 오름차순 수열 만들기
-- [ ] 백준 - 오큰수 구하기
-- [ ] 백준 - 카드 게임
-- [ ] 백준 - 절댓값 힙 구현하기
+- [ ] 011 [백준1874](https://www.acmicpc.net/problem/1874) - 스택으로 오름차순 수열 만들기
+- [ ] 012 [백준17298](https://www.acmicpc.net/problem/17298) - 오큰수 구하기
+- [ ] 013 [백준2164](https://www.acmicpc.net/problem/2164) - 카드 게임
+- [ ] 014 [백준11286](https://www.acmicpc.net/problem/11286) - 절댓값 힙 구현하기
 
 </details>
 
@@ -715,24 +747,24 @@
 <summary>정렬</summary>
 
 ## 버블 정렬
-- [ ] 백준 - 수 정렬하기1 (핵심⭐)
-- [ ] 백준 - 버블 소트 프로그램1
+- [ ] 015 [백준2750](https://www.acmicpc.net/problem/2750) - 수 정렬하기1 (핵심⭐)
+- [ ] 016 [백준1377](https://www.acmicpc.net/problem/1377) - 버블 소트 프로그램1
 
 ## 선택 정렬
-- [ ] 백준 - 내림차순으로 자릿수 정렬하기
+- [ ] 017 [백준1427](https://www.acmicpc.net/problem/1427) - 내림차순으로 자릿수 정렬하기
 
 ## 삽입 정렬
-- [ ] 백준 - ATM 인출 시간 계산하기
+- [ ] 018 [백준11399](https://www.acmicpc.net/problem/11399) - ATM 인출 시간 계산하기
 
 ## 퀵 정렬
-- [ ] 백준 - K번째 수 구하기
+- [ ] 019 [백준11004](https://www.acmicpc.net/problem/11004) - K번째 수 구하기
 
 ## 병합 정렬
-- [ ] 백준 - 수 정렬하기2
-- [ ] 백준 - 버블 소트 프로그램2
+- [ ] 020 [백준2751](https://www.acmicpc.net/problem/2751) - 수 정렬하기2
+- [ ] 021 [백준1517](https://www.acmicpc.net/problem/1517) - 버블 소트 프로그램2
 
 ## 기수 정렬
-- [ ] 백준 - 수 정렬하기3
+- [ ] 022 [백준10989](https://www.acmicpc.net/problem/10989) - 수 정렬하기3
 
 </details>
 
@@ -742,19 +774,19 @@
 <summary>탐색</summary>
 
 ## 깊이 우선 탐색
-- [ ] 백준 - 연결 요소의 개수 구하기 (핵심⭐)
-- [ ] 백준 - 신기한 소수 찾기
-- [ ] 백준 - 친구 관계 파악하기
+- [ ] 023 [백준11724](https://www.acmicpc.net/problem/11724) - 연결 요소의 개수 구하기 (핵심⭐)
+- [ ] 024 [백준2023](https://www.acmicpc.net/problem/2023) - 신기한 소수 찾기
+- [ ] 025 [백준13023](https://www.acmicpc.net/problem/13023) - 친구 관계 파악하기
 
 ## 너비 우선 탐색
-- [ ] 백준 - DFS와 BFS 프로그램 (빈출🔥)
-- [ ] 백준 - 미로 탐색하기
-- [ ] 백준 - 트리의 지름 구하기
+- [ ] 026 [백준1260](https://www.acmicpc.net/problem/1260) - DFS와 BFS 프로그램 (빈출🔥)
+- [ ] 027 [백준2178](https://www.acmicpc.net/problem/2178) - 미로 탐색하기
+- [ ] 028 [백준1167](https://www.acmicpc.net/problem/1167) - 트리의 지름 구하기
 
 ## 이진 탐색
-- [ ] 백준 - 원하는 정수 찾기 (핵심⭐)
-- [ ] 백준 - 블루레이 만들기
-- [ ] 백준 - 배열에서 K번째 수 찾기
+- [ ] 029 [백준1920](https://www.acmicpc.net/problem/1920) - 원하는 정수 찾기 (핵심⭐)
+- [ ] 030 [백준2343](https://www.acmicpc.net/problem/2343) - 블루레이 만들기
+- [ ] 031 [백준1300](https://www.acmicpc.net/problem/1300) - 배열에서 K번째 수 찾기
 
 </details>
 
@@ -764,11 +796,11 @@
 <summary>그리디</summary>
 
 ## 그리디 알고리즘
-- [ ] 백준 - 동전 개수의 최솟값 구하기
-- [ ] 백준 - 카드 정렬하기
-- [ ] 백준 - 수를 묶어서 최댓값 만들기
-- [ ] 백준 - 회의실 배정하기
-- [ ] 백준 - 최솟값을 만드는 괄호 배치 찾기 (핵심⭐)
+- [ ] 032 [백준11047](https://www.acmicpc.net/problem/11047) - 동전 개수의 최솟값 구하기
+- [ ] 033 [백준1715](https://www.acmicpc.net/problem/1715) - 카드 정렬하기
+- [ ] 034 [백준1744](https://www.acmicpc.net/problem/1744) - 수를 묶어서 최댓값 만들기
+- [ ] 035 [백준1931](https://www.acmicpc.net/problem/1931) - 회의실 배정하기
+- [ ] 036 [백준1541](https://www.acmicpc.net/problem/1541) - 최솟값을 만드는 괄호 배치 찾기 (핵심⭐)
 
 </details>
 
@@ -778,21 +810,21 @@
 <summary>정수론</summary>
 
 ## 소수 구하기
-- [ ] 백준 - 소수 구하기 (빈출🔥)
-- [ ] 백준 - 거의 소수 구하기
-- [ ] 백준 - 소수 & 팰린드롬 수 중에서 최솟값 찾기
-- [ ] 백준 - 제곱이 아닌 수 찾기
+- [ ] 037 [백준1929](https://www.acmicpc.net/problem/1929) - 소수 구하기 (빈출🔥)
+- [ ] 038 [백준1456](https://www.acmicpc.net/problem/1456) - 거의 소수 구하기
+- [ ] 039 [백준1747](https://www.acmicpc.net/problem/1747) - 소수 & 팰린드롬 수 중에서 최솟값 찾기
+- [ ] 040 [백준1016](https://www.acmicpc.net/problem/1016) - 제곱이 아닌 수 찾기
 
 ## 오일러 피
-- [ ] 백준 - 오일러 피 함수 구현하기
+- [ ] 041 [백준11689](https://www.acmicpc.net/problem/11689) - 오일러 피 함수 구현하기
 
 ## 유클리드 호제법
-- [ ] 백준 - 최소 공배수 구하기
-- [ ] 백준 - 최대 공약수 구하기
-- [ ] 백준 - 칵테일 만들기
+- [ ] 042 [백준1934](https://www.acmicpc.net/problem/1934) - 최소 공배수 구하기
+- [ ] 043 [백준1850](https://www.acmicpc.net/problem/1850) - 최대 공약수 구하기
+- [ ] 044 [백준1033](https://www.acmicpc.net/problem/1033) - 칵테일 만들기
 
 ## 확장 유클리드 호제법
-- [ ] 백준 - Ax + By = C
+- [ ] 045 [백준21568](https://www.acmicpc.net/problem/21568) - Ax + By = C
 
 </details>
 </blockquote>
@@ -810,39 +842,39 @@
 <summary>그래프</summary>
 
 ## 그래프의 표현
-- [ ] 백준 - 특정 거리의 도시 찾기
-- [ ] 백준 - 효율적으로 해킹하기
-- [ ] 백준 - 이분 그래프 판별하기
-- [ ] 백준 - 물의 양 구하기
+- [ ] 046 [백준18352](https://www.acmicpc.net/problem/18352) - 특정 거리의 도시 찾기
+- [ ] 047 [백준1325](https://www.acmicpc.net/problem/1325) - 효율적으로 해킹하기
+- [ ] 048 [백준1707](https://www.acmicpc.net/problem/1707) - 이분 그래프 판별하기
+- [ ] 049 [백준2251](https://www.acmicpc.net/problem/2251) - 물의 양 구하기
 
 ## 유니온 파인드
-- [ ] 백준 - 집합 표현하기 (빈출🔥)
-- [ ] 백준 - 여행 계획 짜기
-- [ ] 백준 - 거짓말쟁이가 되기 싫어
+- [ ] 050 [백준1717](https://www.acmicpc.net/problem/1717) - 집합 표현하기 (빈출🔥)
+- [ ] 051 [백준1976](https://www.acmicpc.net/problem/1976) - 여행 계획 짜기
+- [ ] 052 [백준1043](https://www.acmicpc.net/problem/1043) - 거짓말쟁이가 되기 싫어
 
 ## 위상 정렬
-- [ ] 백준 - 줄 세우기
-- [ ] 백준 - 게임 개발하기 (빈출🔥)
-- [ ] 백준 - 임계 경로 구하기
+- [ ] 053 [백준2252](https://www.acmicpc.net/problem/2252) - 줄 세우기
+- [ ] 054 [백준1516](https://www.acmicpc.net/problem/1516) - 게임 개발하기 (빈출🔥)
+- [ ] 055 [백준1948](https://www.acmicpc.net/problem/1948) - 임계 경로 구하기
 
 ## 다익스트라
-- [ ] 백준 - 최단 경로 구하기 (빈출🔥)
-- [ ] 백준 - 최소 비용 구하기
-- [ ] 백준 - K번째 최단 경로 찾기 (핵심⭐)
+- [ ] 056 [백준1753](https://www.acmicpc.net/problem/1753) - 최단 경로 구하기 (빈출🔥)
+- [ ] 057 [백준1916](https://www.acmicpc.net/problem/1916) - 최소 비용 구하기
+- [ ] 058 [백준1854](https://www.acmicpc.net/problem/1854) - K번째 최단 경로 찾기 (핵심⭐)
 
 ## 벨만-포드
-- [ ] 백준 - 타임머신으로 빨리 가기 (핵심⭐)
-- [ ] 백준 - 세일즈맨의 고민
+- [ ] 059 [백준11657](https://www.acmicpc.net/problem/11657) - 타임머신으로 빨리 가기 (핵심⭐)
+- [ ] 060 [백준1219](https://www.acmicpc.net/problem/1219) - 세일즈맨의 고민
 
 ## 플로이드-워셜
-- [ ] 백준 - 가장 빠른 버스 노선 구하기 (핵심⭐)
-- [ ] 백준 - 경로 찾기
-- [ ] 백준 - 케빈 베이컨의 6단계 법칙
+- [ ] 061 [백준11404](https://www.acmicpc.net/problem/11404) - 가장 빠른 버스 노선 구하기 (핵심⭐)
+- [ ] 062 [백준11403](https://www.acmicpc.net/problem/11403) - 경로 찾기
+- [ ] 063 [백준1389](https://www.acmicpc.net/problem/1389) - 케빈 베이컨의 6단계 법칙
 
 ## 최소 신장 트리
-- [ ] 백준 - 최소 신장 트리 구하기 (빈출🔥)
-- [ ] 백준 - 다리 만들기
-- [ ] 백준 - 불우이웃돕기
+- [ ] 064 [백준1197](https://www.acmicpc.net/problem/1197) - 최소 신장 트리 구하기 (빈출🔥)
+- [ ] 065 [백준17472](https://www.acmicpc.net/problem/17472) - 다리 만들기
+- [ ] 066 [백준1414](https://www.acmicpc.net/problem/1414) - 불우이웃돕기
 
 </details>
 
@@ -852,23 +884,23 @@
 <summary>트리</summary>
 
 ## 트리 알아보기
-- [ ] 백준 - 트리의 부모 찾기
-- [ ] 백준 - 리프 노드의 개수 구하기
+- [ ] 067 [백준11725](https://www.acmicpc.net/problem/11725) - 트리의 부모 찾기
+- [ ] 068 [백준1068](https://www.acmicpc.net/problem/1068) - 리프 노드의 개수 구하기
 
 ## 트라이
-- [ ] 백준 - 문자열 찾기
+- [ ] 069 [백준14425](https://www.acmicpc.net/problem/14425) - 문자열 찾기
 
 ## 이진 트리
-- [ ] 백준 - 트리 순회하기
+- [ ] 070 [백준1991](https://www.acmicpc.net/problem/1991) - 트리 순회하기
 
 ## 세그먼트 트리
-- [ ] 백준 - 구간 합 구하기3 (빈출🔥)
-- [ ] 백준 - 최솟값 찾기2
-- [ ] 백준 - 구간 곱 구하기
+- [ ] 071 [백준2042](https://www.acmicpc.net/problem/2042) - 구간 합 구하기3 (빈출🔥)
+- [ ] 072 [백준10868](https://www.acmicpc.net/problem/10868) - 최솟값 찾기2
+- [ ] 073 [백준11505](https://www.acmicpc.net/problem/11505) - 구간 곱 구하기
 
 ## 최소 공통 조상
-- [ ] 백준 - 최소 공통 조상 구하기1
-- [ ] 백준 - 최소 공통 조상 구하기2 (빈출🔥)
+- [ ] 074 [백준11437](https://www.acmicpc.net/problem/11437) - 최소 공통 조상 구하기1
+- [ ] 075 [백준11438](https://www.acmicpc.net/problem/11438) - 최소 공통 조상 구하기2 (빈출🔥)
 
 </details>
 
@@ -878,14 +910,14 @@
 <summary>조합</summary>
 
 ## 조합 알아보기
-- [ ] 백준 - 이항계수 구하기1
-- [ ] 백준 - 이항계수 구하기2
-- [ ] 백준 - 부녀회장이 될 테야
-- [ ] 백준 - 다리 놓기
-- [ ] 백준 - 조약돌 꺼내기
-- [ ] 백준 - 순열의 순서 구하기 (빈출🔥)
-- [ ] 백준 - 사전 찾기 (핵심⭐)
-- [ ] 백준 - 선물 전달하기
+- [ ] 076 [백준11050](https://www.acmicpc.net/problem/11050) - 이항계수 구하기1
+- [ ] 077 [백준11051](https://www.acmicpc.net/problem/11051) - 이항계수 구하기2
+- [ ] 078 [백준2775](https://www.acmicpc.net/problem/2775) - 부녀회장이 될 테야
+- [ ] 079 [백준1010](https://www.acmicpc.net/problem/1010) - 다리 놓기
+- [ ] 080 [백준13251](https://www.acmicpc.net/problem/13251) - 조약돌 꺼내기
+- [ ] 081 [백준1722](https://www.acmicpc.net/problem/1722) - 순열의 순서 구하기 (빈출🔥)
+- [ ] 082 [백준1256](https://www.acmicpc.net/problem/1256) - 사전 찾기 (핵심⭐)
+- [ ] 083 [백준1947](https://www.acmicpc.net/problem/1947) - 선물 전달하기
 
 </details>
 
@@ -895,19 +927,19 @@
 <summary>동적 계획법</summary>
 
 ## 동적 계획법 알아보기
-- [ ] 백준 - 정수를 1로 만들기
-- [ ] 백준 - 퇴사 준비하기
-- [ ] 백준 - 이친수 구하기 (빈출🔥)
-- [ ] 백준 - 2*N 타일 채우기
-- [ ] 백준 - 계단 수 구하기
-- [ ] 백준 - 연속된 정수의 합 구하기
-- [ ] 백준 - 최장 공통 부분 수열 찾기 (핵심⭐)
-- [ ] 백준 - 가장 큰 정사각형 찾기
-- [ ] 백준 - 빌딩 순서 구하기
-- [ ] 백준 - DDR을 해보자
-- [ ] 백준 - 행렬 곱 연산 횟수의 최솟값 구하기 (핵심⭐)
-- [ ] 백준 - 외판원의 순회 경로 짜기 (핵심⭐)
-- [ ] 백준 - 가장 길게 증가하는 부분 수열 찾기 (핵심⭐)
+- [ ] 084 [백준1463](https://www.acmicpc.net/problem/1463) - 정수를 1로 만들기
+- [ ] 085 [백준14501](https://www.acmicpc.net/problem/14501) - 퇴사 준비하기
+- [ ] 086 [백준2193](https://www.acmicpc.net/problem/2193) - 이친수 구하기 (빈출🔥)
+- [ ] 087 [백준11726](https://www.acmicpc.net/problem/11726) - 2*N 타일 채우기
+- [ ] 088 [백준10844](https://www.acmicpc.net/problem/10844) - 계단 수 구하기
+- [ ] 089 [백준13398](https://www.acmicpc.net/problem/13398) - 연속된 정수의 합 구하기
+- [ ] 090 [백준9252](https://www.acmicpc.net/problem/9252) - 최장 공통 부분 수열 찾기 (핵심⭐)
+- [ ] 091 [백준1915](https://www.acmicpc.net/problem/1915) - 가장 큰 정사각형 찾기
+- [ ] 092 [백준1328](https://www.acmicpc.net/problem/1328) - 빌딩 순서 구하기
+- [ ] 093 [백준2342](https://www.acmicpc.net/problem/2342) - DDR을 해보자
+- [ ] 094 [백준11049](https://www.acmicpc.net/problem/11049) - 행렬 곱 연산 횟수의 최솟값 구하기 (핵심⭐)
+- [ ] 095 [백준2098](https://www.acmicpc.net/problem/2098) - 외판원의 순회 경로 짜기 (핵심⭐)
+- [ ] 096 [백준14003](https://www.acmicpc.net/problem/14003) - 가장 길게 증가하는 부분 수열 찾기 (핵심⭐)
 
 </details>
 
@@ -917,10 +949,10 @@
 <summary>기하</summary>
 
 ## 기하 알아보기
-- [ ] 백준 - 선분 방향 구하기
-- [ ] 백준 - 선분의 교차 여부 구하기
-- [ ] 백준 - 선분을 그룹으로 나누기
-- [ ] 백준 - 다각형의 면적 구하기
+- [ ] 097 [백준11758](https://www.acmicpc.net/problem/11758) - 선분 방향 구하기
+- [ ] 098 [백준17387](https://www.acmicpc.net/problem/17387) - 선분의 교차 여부 구하기
+- [ ] 099 [백준2162](https://www.acmicpc.net/problem/2162) - 선분을 그룹으로 나누기
+- [ ] 100 [백준2166](https://www.acmicpc.net/problem/2166) - 다각형의 면적 구하기
 
 </details>
 </blockquote>
