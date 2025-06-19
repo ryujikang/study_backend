@@ -1,6 +1,10 @@
-# study_backend with inflearn
+# Java (Inflearn)
+> [**인프런 사이트 - Java Start/Basic**](https://www.inflearn.com/)
 
-[**인프런 사이트 - Java Start**](https://www.inflearn.com/)
+# Algorithm (Baekjoon Online Judge)
+> [**백준 사이트 - Baekjoon Online Judge**](https://www.acmicpc.net/)
+
+<br><br>
 
 ---
 
@@ -722,12 +726,12 @@
 ## 구간 합
 - [x] 003 [백준11659](https://www.acmicpc.net/problem/11659) - [구간 합 구하기1 (핵심⭐)](java_algorithm/basic/data_structure/sum_of_sections/Baekjoon11659.java)
 - [x] 004 [백준11660](https://www.acmicpc.net/problem/11660) - [구간 합 구하기2](java_algorithm/basic/data_structure/sum_of_sections/Baekjoon11660.java)
-- [ ] 005 [백준10986](https://www.acmicpc.net/problem/10986) - 나머지 합 구하기
-- [ ] 006 [백준2018](https://www.acmicpc.net/problem/2018) - 연속된 자연수의 합 구하기
+- [x] 005 [백준10986](https://www.acmicpc.net/problem/10986) - [나머지 합 구하기](java_algorithm/basic/data_structure/sum_of_sections/Baekjoon10986.java)
 
 ## 투 포인터
-- [ ] 007 [백준1940](https://www.acmicpc.net/problem/1940) - 주몽의 명령
-- [ ] 008 [백준1253](https://www.acmicpc.net/problem/1253) - '좋은 수' 구하기 (핵심⭐)
+- [x] 006 [백준2018](https://www.acmicpc.net/problem/2018) - [연속된 자연수의 합 구하기](java_algorithm/basic/data_structure/two_pointer/Baekjoon2018.java)
+- [x] 007 [백준1940](https://www.acmicpc.net/problem/1940) - [주몽의 명령](java_algorithm/basic/data_structure/two_pointer/Baekjoon1940.java)
+- [ ] 008 [백준1253](https://www.acmicpc.net/problem/1253) - ['좋은 수' 구하기 (핵심⭐)](java_algorithm/basic/data_structure/two_pointer/Baekjoon1253.java)
 
 ## 슬라이딩 윈도우
 - [ ] 009 [백준12891](https://www.acmicpc.net/problem/12891) - DNA 비밀번호
