@@ -731,10 +731,10 @@
 ## 투 포인터
 - [x] 006 [백준2018](https://www.acmicpc.net/problem/2018) - [연속된 자연수의 합 구하기](java_algorithm/basic/data_structure/two_pointer/Baekjoon2018.java)
 - [x] 007 [백준1940](https://www.acmicpc.net/problem/1940) - [주몽의 명령](java_algorithm/basic/data_structure/two_pointer/Baekjoon1940.java)
-- [ ] 008 [백준1253](https://www.acmicpc.net/problem/1253) - ['좋은 수' 구하기 (핵심⭐)](java_algorithm/basic/data_structure/two_pointer/Baekjoon1253.java)
+- [x] 008 [백준1253](https://www.acmicpc.net/problem/1253) - ['좋은 수' 구하기 (핵심⭐)](java_algorithm/basic/data_structure/two_pointer/Baekjoon1253.java)
 
 ## 슬라이딩 윈도우
-- [ ] 009 [백준12891](https://www.acmicpc.net/problem/12891) - DNA 비밀번호
+- [ ] 009 [백준12891](https://www.acmicpc.net/problem/12891) - [DNA 비밀번호](java_algorithm/basic/data_structure/sliding_window/Baekjoon12891.java)
 - [ ] 010 [백준11003](https://www.acmicpc.net/problem/11003) - 최솟값 찾기1 (핵심⭐)
 
 ## 스택과 큐
