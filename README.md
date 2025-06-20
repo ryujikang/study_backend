@@ -1,9 +1,10 @@
 # Java (Inflearn)
-> [**인프런 사이트 - Java Start/Basic**](https://www.inflearn.com/)
+> [**> 인프런 사이트 - Java Start/Basic**](https://www.inflearn.com/)
 
 # Algorithm (Baekjoon Online Judge)
-> [**백준 사이트 - Baekjoon Online Judge**](https://www.acmicpc.net/)
-
+> [**> Baekjoon Online Judge**](https://www.acmicpc.net/)  
+> [**> solved.ac**](https://solved.ac/)
+ 
 <br><br>
 
 ---
@@ -734,7 +735,7 @@
 - [x] 008 [백준1253](https://www.acmicpc.net/problem/1253) - ['좋은 수' 구하기 (핵심⭐)](java_algorithm/basic/data_structure/two_pointer/Baekjoon1253.java)
 
 ## 슬라이딩 윈도우
-- [ ] 009 [백준12891](https://www.acmicpc.net/problem/12891) - [DNA 비밀번호](java_algorithm/basic/data_structure/sliding_window/Baekjoon12891.java)
+- [x] 009 [백준12891](https://www.acmicpc.net/problem/12891) - [DNA 비밀번호](java_algorithm/basic/data_structure/sliding_window/Baekjoon12891.java)
 - [ ] 010 [백준11003](https://www.acmicpc.net/problem/11003) - 최솟값 찾기1 (핵심⭐)
 
 ## 스택과 큐
