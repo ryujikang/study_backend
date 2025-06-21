@@ -739,10 +739,10 @@
 - [ ] 010 [백준11003](https://www.acmicpc.net/problem/11003) - 최솟값 찾기1 (핵심⭐)
 
 ## 스택과 큐
-- [ ] 011 [백준1874](https://www.acmicpc.net/problem/1874) - 스택으로 오름차순 수열 만들기
-- [ ] 012 [백준17298](https://www.acmicpc.net/problem/17298) - 오큰수 구하기
-- [ ] 013 [백준2164](https://www.acmicpc.net/problem/2164) - 카드 게임
-- [ ] 014 [백준11286](https://www.acmicpc.net/problem/11286) - 절댓값 힙 구현하기
+- [ ] 011 [백준1874](https://www.acmicpc.net/problem/1874) - [스택으로 오름차순 수열 만들기](java_algorithm/basic/data_structure/stack_queue/Baekjoon1874.java)
+- [x] 012 [백준17298](https://www.acmicpc.net/problem/17298) - [오큰수 구하기](java_algorithm/basic/data_structure/stack_queue/Baekjoon17298.java)
+- [x] 013 [백준2164](https://www.acmicpc.net/problem/2164) - [카드 게임](java_algorithm/basic/data_structure/stack_queue/Baekjoon2164.java)
+- [x] 014 [백준11286](https://www.acmicpc.net/problem/11286) - [절댓값 힙 구현하기](java_algorithm/basic/data_structure/stack_queue/Baekjoon11286.java)
 
 </details>
 
@@ -752,8 +752,8 @@
 <summary>정렬</summary>
 
 ## 버블 정렬
-- [ ] 015 [백준2750](https://www.acmicpc.net/problem/2750) - 수 정렬하기1 (핵심⭐)
-- [ ] 016 [백준1377](https://www.acmicpc.net/problem/1377) - 버블 소트 프로그램1
+- [x] 015 [백준2750](https://www.acmicpc.net/problem/2750) - [수 정렬하기1 (핵심⭐)](java_algorithm/basic/sort/bubble/Baekjoon2750.java)
+- [x] 016 [백준1377](https://www.acmicpc.net/problem/1377) - [버블 소트 프로그램1](java_algorithm/basic/sort/bubble/Baekjoon1377.java)
 
 ## 선택 정렬
 - [ ] 017 [백준1427](https://www.acmicpc.net/problem/1427) - 내림차순으로 자릿수 정렬하기
