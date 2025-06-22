@@ -756,20 +756,20 @@
 - [x] 016 [백준1377](https://www.acmicpc.net/problem/1377) - [버블 소트 프로그램1](java_algorithm/basic/sort/bubble/Baekjoon1377.java)
 
 ## 선택 정렬
-- [ ] 017 [백준1427](https://www.acmicpc.net/problem/1427) - 내림차순으로 자릿수 정렬하기
+- [x] 017 [백준1427](https://www.acmicpc.net/problem/1427) - [내림차순으로 자릿수 정렬하기](java_algorithm/basic/sort/select/Baekjoon1427.java)
 
 ## 삽입 정렬
-- [ ] 018 [백준11399](https://www.acmicpc.net/problem/11399) - ATM 인출 시간 계산하기
+- [x] 018 [백준11399](https://www.acmicpc.net/problem/11399) - [ATM 인출 시간 계산하기](java_algorithm/basic/sort/insert/Baekjoon11399.java)
 
 ## 퀵 정렬
-- [ ] 019 [백준11004](https://www.acmicpc.net/problem/11004) - K번째 수 구하기
+- [ ] 019 [백준11004](https://www.acmicpc.net/problem/11004) - [K번째 수 구하기](java_algorithm/basic/sort/quick/Baekjoon11004.java)
 
 ## 병합 정렬
 - [ ] 020 [백준2751](https://www.acmicpc.net/problem/2751) - 수 정렬하기2
 - [ ] 021 [백준1517](https://www.acmicpc.net/problem/1517) - 버블 소트 프로그램2
 
 ## 기수 정렬
-- [ ] 022 [백준10989](https://www.acmicpc.net/problem/10989) - 수 정렬하기3
+- [ ] 022 [백준10989](https://www.acmicpc.net/problem/10989) - [수 정렬하기3](java_algorithm/basic/sort/radix/Baekjoon10989.java)
 
 </details>
 
@@ -779,7 +779,7 @@
 <summary>탐색</summary>
 
 ## 깊이 우선 탐색
-- [ ] 023 [백준11724](https://www.acmicpc.net/problem/11724) - 연결 요소의 개수 구하기 (핵심⭐)
+- [x] 023 [백준11724](https://www.acmicpc.net/problem/11724) - [연결 요소의 개수 구하기 (핵심⭐)](java_algorithm/basic/search/depth_first/Baekjoon11724.java)
 - [ ] 024 [백준2023](https://www.acmicpc.net/problem/2023) - 신기한 소수 찾기
 - [ ] 025 [백준13023](https://www.acmicpc.net/problem/13023) - 친구 관계 파악하기
 
