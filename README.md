@@ -780,12 +780,12 @@
 
 ## 깊이 우선 탐색
 - [x] 023 [백준11724](https://www.acmicpc.net/problem/11724) - [연결 요소의 개수 구하기 (핵심⭐)](java_algorithm/basic/search/depth_first/Baekjoon11724.java)
-- [ ] 024 [백준2023](https://www.acmicpc.net/problem/2023) - 신기한 소수 찾기
-- [ ] 025 [백준13023](https://www.acmicpc.net/problem/13023) - 친구 관계 파악하기
+- [x] 024 [백준2023](https://www.acmicpc.net/problem/2023) - [신기한 소수 찾기](java_algorithm/basic/search/depth_first/Baejoon2023.java)
+- [x] 025 [백준13023](https://www.acmicpc.net/problem/13023) - [친구 관계 파악하기](java_algorithm/basic/search/depth_first/Baekjoon13023.java)
 
 ## 너비 우선 탐색
-- [ ] 026 [백준1260](https://www.acmicpc.net/problem/1260) - DFS와 BFS 프로그램 (빈출🔥)
-- [ ] 027 [백준2178](https://www.acmicpc.net/problem/2178) - 미로 탐색하기
+- [x] 026 [백준1260](https://www.acmicpc.net/problem/1260) - [DFS와 BFS 프로그램 (빈출🔥)](java_algorithm/basic/search/breadth_first/Baekjoon1260.java)
+- [x] 027 [백준2178](https://www.acmicpc.net/problem/2178) - [미로 탐색하기](java_algorithm/basic/search/breadth_first/Baekjoon2178.java)
 - [ ] 028 [백준1167](https://www.acmicpc.net/problem/1167) - 트리의 지름 구하기
 
 ## 이진 탐색
