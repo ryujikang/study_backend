@@ -786,11 +786,11 @@
 ## 너비 우선 탐색
 - [x] 026 [백준1260](https://www.acmicpc.net/problem/1260) - [DFS와 BFS 프로그램 (빈출🔥)](java_algorithm/basic/search/breadth_first/Baekjoon1260.java)
 - [x] 027 [백준2178](https://www.acmicpc.net/problem/2178) - [미로 탐색하기](java_algorithm/basic/search/breadth_first/Baekjoon2178.java)
-- [ ] 028 [백준1167](https://www.acmicpc.net/problem/1167) - 트리의 지름 구하기
+- [x] 028 [백준1167](https://www.acmicpc.net/problem/1167) - [트리의 지름 구하기](java_algorithm/basic/search/breadth_first/Baekjoon1167.java)
 
 ## 이진 탐색
-- [ ] 029 [백준1920](https://www.acmicpc.net/problem/1920) - 원하는 정수 찾기 (핵심⭐)
-- [ ] 030 [백준2343](https://www.acmicpc.net/problem/2343) - 블루레이 만들기
+- [x] 029 [백준1920](https://www.acmicpc.net/problem/1920) - [원하는 정수 찾기 (핵심⭐)](java_algorithm/basic/search/binary/Baekjoon1920.java)
+- [ ] 030 [백준2343](https://www.acmicpc.net/problem/2343) - [블루레이 만들기](java_algorithm/basic/search/binary/Baekjoon2343.java)
 - [ ] 031 [백준1300](https://www.acmicpc.net/problem/1300) - 배열에서 K번째 수 찾기
 
 </details>
