@@ -791,7 +791,7 @@
 ## 이진 탐색
 - [x] 029 [백준1920](https://www.acmicpc.net/problem/1920) - [원하는 정수 찾기 (핵심⭐)](java_algorithm/basic/search/binary/Baekjoon1920.java)
 - [ ] 030 [백준2343](https://www.acmicpc.net/problem/2343) - [블루레이 만들기](java_algorithm/basic/search/binary/Baekjoon2343.java)
-- [ ] 031 [백준1300](https://www.acmicpc.net/problem/1300) - 배열에서 K번째 수 찾기
+- [ ] 031 [백준1300](https://www.acmicpc.net/problem/1300) - [배열에서 K번째 수 찾기](java_algorithm/basic/search/binary/Baekjoon1300.java)
 
 </details>
 
@@ -801,11 +801,11 @@
 <summary>그리디</summary>
 
 ## 그리디 알고리즘
-- [ ] 032 [백준11047](https://www.acmicpc.net/problem/11047) - 동전 개수의 최솟값 구하기
-- [ ] 033 [백준1715](https://www.acmicpc.net/problem/1715) - 카드 정렬하기
-- [ ] 034 [백준1744](https://www.acmicpc.net/problem/1744) - 수를 묶어서 최댓값 만들기
-- [ ] 035 [백준1931](https://www.acmicpc.net/problem/1931) - 회의실 배정하기
-- [ ] 036 [백준1541](https://www.acmicpc.net/problem/1541) - 최솟값을 만드는 괄호 배치 찾기 (핵심⭐)
+- [x] 032 [백준11047](https://www.acmicpc.net/problem/11047) - [동전 개수의 최솟값 구하기](java_algorithm/basic/greedy/Baekjoon11047.java)
+- [x] 033 [백준1715](https://www.acmicpc.net/problem/1715) - [카드 정렬하기](java_algorithm/basic/greedy/Baekjoon1715.java)
+- [x] 034 [백준1744](https://www.acmicpc.net/problem/1744) - [수를 묶어서 최댓값 만들기](java_algorithm/basic/greedy/Baekjoon1744.java)
+- [x] 035 [백준1931](https://www.acmicpc.net/problem/1931) - [회의실 배정하기](java_algorithm/basic/greedy/Baekjoon1931.java)
+- [ ] 036 [백준1541](https://www.acmicpc.net/problem/1541) - [최솟값을 만드는 괄호 배치 찾기 (핵심⭐)](java_algorithm/basic/greedy/Baekjoon1541.java)
 
 </details>
 
