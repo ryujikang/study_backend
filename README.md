@@ -805,7 +805,7 @@
 - [x] 033 [백준1715](https://www.acmicpc.net/problem/1715) - [카드 정렬하기](java_algorithm/basic/greedy/Baekjoon1715.java)
 - [x] 034 [백준1744](https://www.acmicpc.net/problem/1744) - [수를 묶어서 최댓값 만들기](java_algorithm/basic/greedy/Baekjoon1744.java)
 - [x] 035 [백준1931](https://www.acmicpc.net/problem/1931) - [회의실 배정하기](java_algorithm/basic/greedy/Baekjoon1931.java)
-- [ ] 036 [백준1541](https://www.acmicpc.net/problem/1541) - [최솟값을 만드는 괄호 배치 찾기 (핵심⭐)](java_algorithm/basic/greedy/Baekjoon1541.java)
+- [x] 036 [백준1541](https://www.acmicpc.net/problem/1541) - [최솟값을 만드는 괄호 배치 찾기 (핵심⭐)](java_algorithm/basic/greedy/Baekjoon1541.java)
 
 </details>
 
@@ -815,13 +815,13 @@
 <summary>정수론</summary>
 
 ## 소수 구하기
-- [ ] 037 [백준1929](https://www.acmicpc.net/problem/1929) - 소수 구하기 (빈출🔥)
-- [ ] 038 [백준1456](https://www.acmicpc.net/problem/1456) - 거의 소수 구하기
-- [ ] 039 [백준1747](https://www.acmicpc.net/problem/1747) - 소수 & 팰린드롬 수 중에서 최솟값 찾기
+- [x] 037 [백준1929](https://www.acmicpc.net/problem/1929) - [소수 구하기 (빈출🔥)](java_algorithm/basic/number_theory/prime/Baekjoon1929.java)
+- [x] 038 [백준1456](https://www.acmicpc.net/problem/1456) - [거의 소수 구하기](java_algorithm/basic/number_theory/prime/Baekjoon1456.java)
+- [ ] 039 [백준1747](https://www.acmicpc.net/problem/1747) - [소수 & 팰린드롬 수 중에서 최솟값 찾기](java_algorithm/basic/number_theory/prime/Baekjoon1747.java)
 - [ ] 040 [백준1016](https://www.acmicpc.net/problem/1016) - 제곱이 아닌 수 찾기
 
 ## 오일러 피
-- [ ] 041 [백준11689](https://www.acmicpc.net/problem/11689) - 오일러 피 함수 구현하기
+- [ ] 041 [백준11689](https://www.acmicpc.net/problem/11689) - [오일러 피 함수 구현하기](java_algorithm/basic/number_theory/euler_phi/Baekjoon11689.java)
 
 ## 유클리드 호제법
 - [ ] 042 [백준1934](https://www.acmicpc.net/problem/1934) - 최소 공배수 구하기
